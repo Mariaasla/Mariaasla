@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Mariaasla
+- 👋 Hi, I’m Maria Aslanidou!
 - 👀 I’m interested in scientific research, physics, astrophysics and data science.
 - 🌱 I’m currently learning data analysis, machine learning, data structures and algorithms in Python.
 - 💞️ I’m looking to collaborate on various scientific and technological projects.
