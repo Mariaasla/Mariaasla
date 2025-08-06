@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning data analysis, machine learning, data structures and algorithms in Python.
 - 💞️ I’m looking to collaborate on various scientific and technological projects.
 - 📫 How to reach me: mariaasla391@gmail.com
-- 😄 Pronouns: she/her
   
 
 <!---
