@@ -97,4 +97,4 @@
   <img src="https://raw.githubusercontent.com/Mariaasla/Mariaasla/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
 
-<sub>🧩 Extras you can add later: trophies, visitor map, auto-updated blog list.</sub>
+
