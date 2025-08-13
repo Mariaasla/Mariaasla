@@ -6,9 +6,9 @@
 
 <img src="https://camo.githubusercontent.com/e2bef424af31f4620d085285ced6c4fdae1b728a9af4fc9cb60b285976cc9590/68747470733a2f2f6d65646961312e67697068792e636f6d2f6d656469612f336b50446d6f5764427051504e68436e55472f67697068792e6769663f6369643d6563663035653437637a63633533323736357773356f756d7379666c6d7272336c383461686338777075326f726238372665703d76315f676966735f72656c61746564267269643d67697068792e6769662663743d73" width="500" />
 
-**Astrophysics MSc → Data & Machine Learning | Python • PyTorch • Astropy**
+**Astrophysicist → Data & Machine Learning**
 
-<img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" width="500" />
+
 
 [![Profile Views](https://komarev.com/ghpvc/?username=Mariaasla&style=flat-square)](#)
 [![Followers](https://img.shields.io/github/followers/Mariaasla?label=Follow&style=flat-square)](https://github.com/Mariaasla?tab=followers)
